@@ -1,0 +1,5 @@
+Отчёт по вирусным атакам за месяц
+3
+Trojan.Win32;12
+Worm.Net;20
+Ransomware;5
