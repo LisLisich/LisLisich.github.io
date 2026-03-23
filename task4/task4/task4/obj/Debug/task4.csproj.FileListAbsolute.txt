@@ -1,0 +1,11 @@
+H:\Практика\Задание 4\task4\task4\bin\Debug\task4.exe.config
+H:\Практика\Задание 4\task4\task4\bin\Debug\task4.exe
+H:\Практика\Задание 4\task4\task4\bin\Debug\task4.pdb
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.Form1.resources
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.Properties.Resources.resources
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.csproj.GenerateResource.cache
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.exe
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.pdb
+H:\Практика\Задание 4\task4\task4\obj\Debug\task4.exe.config

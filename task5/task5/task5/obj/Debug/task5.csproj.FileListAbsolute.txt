@@ -1,0 +1,12 @@
+H:\Практика\Задание 5\task5\task5\bin\Debug\task5.exe.config
+H:\Практика\Задание 5\task5\task5\bin\Debug\task5.exe
+H:\Практика\Задание 5\task5\task5\bin\Debug\task5.pdb
+H:\Практика\Задание 5\task5\task5\bin\Debug\DictionaryLibrary.dll
+H:\Практика\Задание 5\task5\task5\bin\Debug\DictionaryLibrary.pdb
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.Properties.Resources.resources
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.csproj.GenerateResource.cache
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.csproj.Up2Date
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.exe
+H:\Практика\Задание 5\task5\task5\obj\Debug\task5.pdb

@@ -1,0 +1,12 @@
+H:\Практика\Задание 3\task3\task3\bin\Debug\task3.exe.config
+H:\Практика\Задание 3\task3\task3\bin\Debug\task3.exe
+H:\Практика\Задание 3\task3\task3\bin\Debug\task3.pdb
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.Form1.resources
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.Form2.resources
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.Properties.Resources.resources
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.csproj.GenerateResource.cache
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.exe
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.pdb
+H:\Практика\Задание 3\task3\task3\obj\Debug\task3.exe.config

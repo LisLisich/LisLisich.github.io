@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|solutionrelative:task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|solutionrelative:task4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\virusattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|solutionrelative:task4\\virusattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\virusstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|solutionrelative:task4\\virusstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06C2630-17F9-4523-8200-05C72401E7BB}|task4\\task4.csproj|solutionrelative:task4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.cs",
+              "RelativeDocumentMoniker": "task4\\Form1.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.cs*",
+              "RelativeToolTip": "task4\\Form1.cs*",
+              "ViewState": "AgIAADgBAAAAAAAAAAAYwF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:27:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirusStatistics.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\VirusStatistics.cs",
+              "RelativeDocumentMoniker": "task4\\VirusStatistics.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\VirusStatistics.cs",
+              "RelativeToolTip": "task4\\VirusStatistics.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:25:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VirusAttack.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\VirusAttack.cs",
+              "RelativeDocumentMoniker": "task4\\VirusAttack.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\VirusAttack.cs",
+              "RelativeToolTip": "task4\\VirusAttack.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:24:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.cs",
+              "RelativeDocumentMoniker": "task4\\Form1.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "task4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:15:24.424Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "task4\\Form1.Designer.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\task4\\task4\\Form1.Designer.cs*",
+              "RelativeToolTip": "task4\\Form1.Designer.cs*",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAIwLUBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:33:14.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

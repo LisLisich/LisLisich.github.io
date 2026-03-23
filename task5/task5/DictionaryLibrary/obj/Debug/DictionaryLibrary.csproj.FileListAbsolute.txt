@@ -1,0 +1,6 @@
+H:\Практика\Задание 5\task5\DictionaryLibrary\bin\Debug\DictionaryLibrary.dll
+H:\Практика\Задание 5\task5\DictionaryLibrary\bin\Debug\DictionaryLibrary.pdb
+H:\Практика\Задание 5\task5\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.AssemblyReference.cache
+H:\Практика\Задание 5\task5\DictionaryLibrary\obj\Debug\DictionaryLibrary.csproj.CoreCompileInputs.cache
+H:\Практика\Задание 5\task5\DictionaryLibrary\obj\Debug\DictionaryLibrary.dll
+H:\Практика\Задание 5\task5\DictionaryLibrary\obj\Debug\DictionaryLibrary.pdb

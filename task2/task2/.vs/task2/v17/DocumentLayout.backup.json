@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3B096E-25AD-4AF8-A442-D34BC94163F1}|UnitTestProject\\UnitTestProject.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3B096E-25AD-4AF8-A442-D34BC94163F1}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|solutionrelative:task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|solutionrelative:task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|h:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\bignumberlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F069F18-C776-4CE5-BB99-26E8A5C01B07}|task2\\task2.csproj|solutionrelative:task2\\bignumberlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\UnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\UnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:49:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\Form1.cs",
+              "RelativeDocumentMoniker": "task2\\Form1.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\Form1.cs",
+              "RelativeToolTip": "task2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:38:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BigNumberLogic.cs",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\BigNumberLogic.cs",
+              "RelativeDocumentMoniker": "task2\\BigNumberLogic.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\BigNumberLogic.cs",
+              "RelativeToolTip": "task2\\BigNumberLogic.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\Form1.cs",
+              "RelativeDocumentMoniker": "task2\\Form1.cs",
+              "ToolTip": "H:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 2\\task2\\task2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "task2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:21:41.65Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
