@@ -5,6 +5,9 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace task7
 {
+    /// <summary>
+    /// Базовый класс для всех фигур
+    /// </summary>
     [Serializable]
     public abstract class Figure
     {
@@ -130,11 +133,15 @@ namespace task7
         }
 
         public virtual void Rotate(float angle) => rotationAngle += angle;
+
         public virtual void Mirror(bool horizontal, bool vertical)
         {
-            mirrorHorizontal = horizontal;
-            mirrorVertical = vertical;
+            if (horizontal)
+                mirrorHorizontal = !mirrorHorizontal;  // Переключаем
+            if (vertical)
+                mirrorVertical = !mirrorVertical;      // Переключаем
         }
+
         public abstract string GetTypeName();
     }
 }
